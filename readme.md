@@ -12,6 +12,7 @@ takes 4 paramaters
 ## Examples ##
 
 `$ sh ./snipe.sh <email> <subject> <cource> <section>`
+
 `$ sh ./snipe.sh vivekseth.m@gmail.com 198 352 01`
 
 ## Credits 
